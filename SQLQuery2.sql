@@ -1,4 +1,4 @@
---Ayush Srivastava
+--Pragynasmita Sahoo
 
 ----Create a procedure InsertOrderDetails that takes OrderID, ProductID, UnitPrice, Quantiy, Discount as input parameters and inserts that order information 
 --in the Order Details table. After each order inserted, check the @@rowcount value to make sure that order was inserted properly. 
