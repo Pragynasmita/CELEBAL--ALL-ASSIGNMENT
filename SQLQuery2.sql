@@ -9,7 +9,7 @@
 ----Adjust the quantity in stock (UnitsInStock) for the product by subtracting the quantity sold from inventory.
 ----However, if there is not enough of a product in stock, then abort the stored procedure without making any changes to the database.
 ----Print a message if the quantity in stock of a product drops below its Reorder Level as a result of the update.
-USE AdventureWorks2019;
+USE AdventureWorks2022;
 GO
 IF OBJECT_ID('InsertOrderDetails', 'P') IS NOT NULL
     DROP PROCEDURE InsertOrderDetails;
