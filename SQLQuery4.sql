@@ -1,4 +1,4 @@
---Ayush Srivastava
+--Pragynasmita Sahoo
 -- Drop foreign key constraints and tables if they exist
 IF OBJECT_ID('dbo.StudentPreference', 'U') IS NOT NULL
 BEGIN
