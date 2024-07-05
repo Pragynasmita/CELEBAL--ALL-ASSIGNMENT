@@ -1,4 +1,4 @@
---Ayush Srivastava
+--Pragynasmita Sahoo
 -- Ensure the SubjectAllotments table exists
 IF OBJECT_ID('SubjectAllotments', 'U') IS NOT NULL
     DROP TABLE SubjectAllotments;
